@@ -1,0 +1,7 @@
+Artificial intelligence (AI) refers to computer systems capable of performing complex tasks that historically only humans could do, such as reasoning, making decisions, or solving problems. At a glance, here's what you need to know about artificial intelligence:
+
+Today, the term “AI” describes a wide range of technologies that power many of the services and goods we use every day – from apps that recommend TV shows to chatbots that provide customer support in real time.
+
+Machine learning is the most common form of artificial intelligence used today.
+
+As AI becomes more interwoven into our modern world, knowing how it works and how to use it can help you better leverage the technology at work and in your personal life.
